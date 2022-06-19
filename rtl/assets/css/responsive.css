@@ -373,6 +373,16 @@
         margin-left: 0;
     }
 
+    .sg-header-action-links a:not(:first-child) {
+        margin-left: 0;
+        margin-right: 15px;
+    }
+
+    .sg-appoint-form-input-wrap.sg-appoint-age.mr-10 {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
 }
 
  

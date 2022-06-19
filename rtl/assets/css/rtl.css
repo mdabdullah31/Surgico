@@ -815,3 +815,8 @@ form input, input {
 	margin-left: 0;
 	margin-right: 7px;
 }
+
+.sg-shop-filtered-tag a i {
+	margin-left: 4px;
+	margin-right: 0;
+}
